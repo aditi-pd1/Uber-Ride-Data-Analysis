@@ -1,7 +1,7 @@
 # Uber-Ride-Data-Analysis
 To leverage Python's powerful data analysis and visualization libraries to extract actionable insights from Uber rides data and uncover trends in peak hours, popular routes, and rider behavior to optimize operations and improve service.
 
-# Importing Libraries
+# Import Libraries
 The analysis will be done using the following libraries : 
 1. `Pandas`:  This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
 2. `Numpy`: Numpy arrays are very fast and can perform large computations in a very short time.
